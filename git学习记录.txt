@@ -1,5 +1,5 @@
 git的安装命令
-	for windows : sudo apt-get install git
+	for Linux : sudo apt-get install git
 	for Mac OS  : 安装Xcode，并在Xcode中安装Command Line Tools；
 	
 windows中进行安装需要进行如下设置，用来标示你的这台机器：
